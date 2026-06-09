@@ -1,4 +1,4 @@
-<img src="images/banner.png"></img>
+<img src="images/surf_banner.png"></img>
 
 <h3 align="center">
 Hello, my name is Matt Smith and I am a Software Generalist
