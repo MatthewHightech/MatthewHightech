@@ -8,7 +8,7 @@ I have a very board approach to engineering. I've determined that the more I can
 </p>
 
 <h5 align="center">
-If you are a person and not a computer, then I want to get to know you. I want to connect. Please reach out below.
+I have a deep desire for connection, I want to get to know you, hear about your work, your story. Please reach out below.
 </h5>
 <br>
 <p align="center">
